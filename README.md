@@ -1,5 +1,7 @@
-<H1> Hi there, I'm Fernanda Ruaro 🤝</H1> 
-<H4> 📚 A student of Software Engineer and Data Science </H4>
-<H4> ❤ Passionate about everything that involves technology </H4>
-<H4> ☁ If you can dream it, you can do it! </H4>  
+<H1> Hello, my name is Ihury Ferreira 🤝</H1> 
+<H4> 📚 Computer Science Student </H4>
+<H4> Passionate about everything that involves technology </H4> 
 <br><br>
+
+  ##
+<h3> Soon more information.... </h3>
