@@ -1,4 +1,4 @@
-<img src="https://imgur.com/ePvwGR1" width="100%">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/zf2DZN4"  ><a href="//imgur.com/a/zf2DZN4">Bem vindo!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <br>
  <H1> Olá, me chamo Ihury Ferreira 🤝</H1> 
 - 📚 Estou Cursando Ciências da Computação<br> 
