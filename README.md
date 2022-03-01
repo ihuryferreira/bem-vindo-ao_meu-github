@@ -38,4 +38,4 @@
   ##
   
   <p align="center">👁️Profile views👁️</p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/Gustabriel/count.svg" /></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/ihuryferreira/count.svg" /></p>
