@@ -1,4 +1,4 @@
-<img align="center" height="20%" src="bem_vindo.gif">
+<img align="center" width="600" height="20%" src="bem_vindo.gif">
 <br>
  <H1> Olá, me chamo Ihury Ferreira 🤝</H1> 
 - 📚 Estou Cursando Ciências da Computação<br> 
