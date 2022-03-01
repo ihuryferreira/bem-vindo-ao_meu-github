@@ -44,4 +44,4 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/ihuryferreira/count.svg" /></p>
  <br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihuryferreira&layout=compact)](https://github.com/ihuryferreira/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihuryferreirahide=javascript,html)](https://github.com/ihuryferreira/github-readme-stats)
