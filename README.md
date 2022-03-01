@@ -29,4 +29,4 @@
  
  ![Snake animation](https://github.com/ihuryferreira/ihuryferreira/blob/output/github-contribution-grid-snake.svg)
  
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=ihuryferreira&repo=ihuryferreira&theme=react)](https://github.com/ihuryferreira/ihuryferreira)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=IHURYFERREIRA&repo=IHURYFERREIRA&theme=react)](https://github.com/IHURYFERREIRA/IHURYFERREIRA)
