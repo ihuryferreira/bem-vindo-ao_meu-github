@@ -1,6 +1,7 @@
+
 <img width="800" height="10%" src="bem_vindo.gif">
  <br>
-<div align="center">
+<div align="center" theme=react>
  <H1 style="display: inline_block"> Olá, me chamo Ihury Ferreira 🤝</H1> 
 </div>
 <br>
@@ -9,7 +10,6 @@
 - :computer: 👨 Desejo iniciar minha carreira na area de Front-end!<br>
 - :house_with_garden: Moro em Goiânia - Goiás<br>
 - :books: focado nos estudos em desenvolvimento Web.
-
 ##
 
 <div>
