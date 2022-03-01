@@ -10,7 +10,8 @@
 - :computer: 👨 Desejo iniciar minha carreira na area de Front-end!<br>
 - :house_with_garden: Moro em Goiânia - Goiás<br>
 - :books: focado nos estudos em desenvolvimento Web.
-##
+<br>
+ ##
 
 <div>
   <a href="https://github.com/ihuryferreira">
