@@ -1,8 +1,9 @@
 <img width="800" height="10%" src="bem_vindo.gif">
  <br>
-<div aling="center">
- <H1> Olá, me chamo Ihury Ferreira 🤝</H1> 
+<div align="center">
+ <H1 style="display: inline_block"> Olá, me chamo Ihury Ferreira 🤝</H1> 
 </div>
+<br>
  - 📚 Estou Cursando Ciências da Computação<br> 
 - 💻 Apaixonado por tudo que envolve tecnologia <br>
 - :computer: 👨 Desejo iniciar minha carreira na area de Front-end!<br>
