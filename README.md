@@ -30,5 +30,6 @@
    <br><a href="https://www.linkedin.com/in/ihury-ferreira-10b3121b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
  ![Snake animation](https://github.com/ihuryferreira/ihuryferreira/blob/output/github-contribution-grid-snake.svg)
- 
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=IHURYFERREIRA&repo=IHURYFERREIRA&theme=react)](https://github.com/IHURYFERREIRA/IHURYFERREIRA)
+<div align="left">
+   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=IHURYFERREIRA&repo=IHURYFERREIRA&theme=react)](https://github.com/IHURYFERREIRA/IHURYFERREIRA)
+</div>
