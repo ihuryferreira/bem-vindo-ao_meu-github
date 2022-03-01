@@ -1,5 +1,5 @@
 
-<img width="800" height="10%" src="bem_vindo.gif&theme=react">
+<img width="800" height="10%" src="bem_vindo.gif">
  <br>
 <div align="center">
  <H1 style="display: inline_block"> Olá, me chamo Ihury Ferreira 🤝</H1> 
