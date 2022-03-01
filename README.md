@@ -1,6 +1,4 @@
-<div align="left">
-  <img align="center" width="800" height="10%" src="bem_vindo.gif">
-</div>
+<img width="800" height="10%" src="bem_vindo.gif">
  <br>
  <H1> Olá, me chamo Ihury Ferreira 🤝</H1> 
 - 📚 Estou Cursando Ciências da Computação<br> 
