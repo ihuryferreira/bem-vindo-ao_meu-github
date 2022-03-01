@@ -34,3 +34,8 @@
  Não aparece a estrela e nem uma chave
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=IHURYFERREIRA&repo=IHURYFERREIRA&theme=react)](https://github.com/IHURYFERREIRA/IHURYFERREIRA)
 -->
+ 
+  ##
+  
+  <p align="center">👁️Profile views👁️</p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/Gustabriel/count.svg" /></p>
