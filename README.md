@@ -15,7 +15,7 @@
 <div>
   <a href="https://github.com/ihuryferreira">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ihuryferreira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihuryferreira&layout=compact&langs_count=1&theme=react" />
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihuryferreira&hide=javascript,html&theme=react" />
 
   <img align="center" width="208" height="180" src="https://media1.tenor.com/images/903f0c56e6833b67c1d7f60a79e01a15/tenor.gif?itemid=25018018">
 </div>
@@ -43,5 +43,3 @@
   <p align="center">👁️Profile views👁️</p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/ihuryferreira/count.svg" /></p>
  <br>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihuryferreira&hide=javascript,html)](https://github.com/ihuryferreira/github-readme-stats)
