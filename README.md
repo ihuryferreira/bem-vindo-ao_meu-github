@@ -1,3 +1,5 @@
+<img src="https://imgur.com/ePvwGR1" width="100%">
+<br>
  <H1> Olá, me chamo Ihury Ferreira 🤝</H1> 
 - 📚 Estou Cursando Ciências da Computação<br> 
 - 💻 Apaixonado por tudo que envolve tecnologia <br>
