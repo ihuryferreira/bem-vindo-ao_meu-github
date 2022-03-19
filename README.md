@@ -3,8 +3,26 @@
  <H1 style="display: inline_block"> Olá, me chamo Ihury Ferreira 🤝</H1> 
 </div>
 <div align="right">
-  <input type="text" id="hora" disabled>
-  <script src="appHora.js"></script>
+  <h3 id="hora"></h3>
+  function hora(){
+   var data = new Date();
+   var h = data.getHours();
+   var m = data.getMinutes();
+   var s = data.getSeconds();
+
+   if(h <= 10){
+    h="0"+h;
+   }
+   if(m <= 10){
+    m="0"+m;
+   }
+   if(s <= 10){
+    s="0"+s;
+   }
+
+   var time = h + ":" + m + ":" + s;
+   document.getElementById("hora").innerHTML = time.toString();
+  }
 </div>
 <br>
  - 📚 Estou Cursando Ciências da Computação<br> 
