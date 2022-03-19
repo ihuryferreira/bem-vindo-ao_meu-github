@@ -3,7 +3,8 @@
  <H1 style="display: inline_block"> Olá, me chamo Ihury Ferreira 🤝</H1> 
 </div>
 <div align="right">
-  <h3 id="hora"></h3>
+ 
+  <em id="hora"></em>
   function hora(){
    var data = new Date();
    var h = data.getHours();
