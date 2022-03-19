@@ -23,6 +23,7 @@
    var time = h + ":" + m + ":" + s;
    document.getElementById("hora").innerHTML = time.toString();
   }
+  setInterval(hora, 1000);
 </div>
 <br>
  - 📚 Estou Cursando Ciências da Computação<br> 
