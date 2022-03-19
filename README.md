@@ -5,6 +5,7 @@
 <div align="right">
  
   <em id="hora">cool</em>
+ <em>
   function hora(){
    var data = new Date();
    var h = data.getHours();
@@ -24,7 +25,7 @@
    var time = h + ":" + m + ":" + s;
    document.getElementById("hora").innerHTML = time.toString();
   }
-  setInterval(hora, 1000);
+              setInterval(hora, 1000);</em>
 </div>
 <br>
  - 📚 Estou Cursando Ciências da Computação<br> 
