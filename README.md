@@ -4,7 +4,7 @@
 </div>
 <div align="right">
  
-  <em id="hora"></em>
+  <em id="hora">cool</em>
   function hora(){
    var data = new Date();
    var h = data.getHours();
