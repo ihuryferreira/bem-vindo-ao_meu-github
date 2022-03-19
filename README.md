@@ -2,6 +2,10 @@
 <div align="center">
  <H1 style="display: inline_block"> Olá, me chamo Ihury Ferreira 🤝</H1> 
 </div>
+<div align="right">
+  <input type="text" id="hora" disabled>
+  <script src="appHora.js"></script>
+</div>
 <br>
  - 📚 Estou Cursando Ciências da Computação<br> 
 - 💻 Apaixonado por tudo que envolve tecnologia <br>
