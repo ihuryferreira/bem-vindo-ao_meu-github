@@ -2,31 +2,6 @@
 <div align="center">
  <H1 style="display: inline_block"> Olá, me chamo Ihury Ferreira 🤝</H1> 
 </div>
-<div align="right">
- 
-  <em id="hora">cool</em>
- <em>
-  function hora(){
-   var data = new Date();
-   var h = data.getHours();
-   var m = data.getMinutes();
-   var s = data.getSeconds();
-
-   if(h <= 10){
-    h="0"+h;
-   }
-   if(m <= 10){
-    m="0"+m;
-   }
-   if(s <= 10){
-    s="0"+s;
-   }
-
-   var time = h + ":" + m + ":" + s;
-   document.getElementById("hora").innerHTML = time.toString();
-  }
-              setInterval(hora, 1000);</em>
-</div>
 <br>
  - 📚 Estou Cursando Ciências da Computação<br> 
 - 💻 Apaixonado por tudo que envolve tecnologia <br>
