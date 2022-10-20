@@ -3,10 +3,11 @@
  <H1 style="display: inline_block"> Olá, me chamo Ihury Ferreira 🤝</H1> 
 </div>
 <br>
- - 📚 Estou Cursando Ciências da Computação<br> 
+ - 👨‍🎓 Sou estudante de Ciências da Computação<br> 
 - 💻 Apaixonado por tudo que envolve tecnologia <br>
 - :house_with_garden: Moro em Goiânia - Goiás<br>
 - :books: focado nos estudos em desenvolvimento Web.
+- Full stack Developer HTML | CSS | JavaScript Sempre aprendendo
 <br>
 <br>
 
