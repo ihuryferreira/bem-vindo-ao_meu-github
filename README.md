@@ -1,6 +1,7 @@
 
-<div align="center">
- <H1 style="display: inline_block"> Olá, me chamo Ihury Ferreira 🤝</H1> 
+<div align="left">
+ <H1 style="display: inline_block"> Olá, me chamo Ihury Ferreira 🤝</H1>
+ <p>Busco um estágio em programação para aplicar meus conhecimentos e habilidades, aprender com experientes desenvolvedores e contribuir para o crescimento da empresa. Pretendo desenvolver minhas habilidades em desenvolvimento web e mobile, tornando-me um profissional competitivo no mercado.</p>
 </div>
 <br>
  - 👨‍🎓 Sou estudante de Ciências da Computação<br> 
@@ -22,9 +23,9 @@
 <br>
 <div  align="center">
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
    <br><a href="https://www.linkedin.com/in/ihury-ferreira-10b3121b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
